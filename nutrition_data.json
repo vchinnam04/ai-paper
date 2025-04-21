@@ -1,0 +1,222 @@
+{
+    "food_items": {
+        "apple": {
+            "name": "apple",
+            "category": "fruits",
+            "nutrition": {
+                "calories": 52,
+                "protein": 0.3,
+                "carbs": 14,
+                "fat": 0.2,
+                "fiber": 2.4,
+                "sugar": 10.4,
+                "sodium": 1,
+                "vitamins": {
+                    "C": 4.6,
+                    "B6": 0.041
+                },
+                "minerals": {
+                    "Potassium": 107
+                }
+            }
+        },
+        "chicken breast": {
+            "name": "chicken breast",
+            "category": "meat",
+            "nutrition": {
+                "calories": 165,
+                "protein": 31,
+                "carbs": 0,
+                "fat": 3.6,
+                "fiber": null,
+                "sugar": null,
+                "sodium": 74,
+                "vitamins": {
+                    "B6": 0.6,
+                    "B12": 0.3
+                },
+                "minerals": {
+                    "Potassium": 256,
+                    "Phosphorus": 210
+                }
+            }
+        },
+        "pizza": {
+            "name": "pizza",
+            "category": "fast food",
+            "nutrition": {
+                "calories": 266,
+                "protein": 11,
+                "carbs": 33,
+                "fat": 10,
+                "fiber": 2.5,
+                "sugar": 3.6,
+                "sodium": 598,
+                "vitamins": {
+                    "A": 140,
+                    "C": 2.1,
+                    "B12": 0.3
+                },
+                "minerals": {
+                    "Calcium": 193,
+                    "Iron": 2.3
+                }
+            }
+        },
+        "hamburger": {
+            "name": "hamburger",
+            "category": "fast food",
+            "nutrition": {
+                "calories": 295,
+                "protein": 17,
+                "carbs": 30,
+                "fat": 14,
+                "fiber": 1.5,
+                "sugar": 5.2,
+                "sodium": 414,
+                "vitamins": {
+                    "B6": 0.2,
+                    "B12": 1.3
+                },
+                "minerals": {
+                    "Iron": 2.9,
+                    "Zinc": 2.5
+                }
+            }
+        },
+        "french fries": {
+            "name": "french fries",
+            "category": "fast food",
+            "nutrition": {
+                "calories": 312,
+                "protein": 3.4,
+                "carbs": 41.4,
+                "fat": 15,
+                "fiber": 3.8,
+                "sugar": 0.3,
+                "sodium": 210,
+                "vitamins": {
+                    "C": 9.7,
+                    "B6": 0.3
+                },
+                "minerals": {
+                    "Potassium": 579
+                }
+            }
+        },
+        "sushi": {
+            "name": "sushi",
+            "category": "seafood",
+            "nutrition": {
+                "calories": 150,
+                "protein": 6,
+                "carbs": 28,
+                "fat": 1,
+                "fiber": 0.6,
+                "sugar": 4.6,
+                "sodium": 428,
+                "vitamins": {
+                    "B12": 0.5
+                },
+                "minerals": {
+                    "Selenium": 15.1
+                }
+            }
+        },
+        "chocolate cake": {
+            "name": "chocolate cake",
+            "category": "dessert",
+            "nutrition": {
+                "calories": 371,
+                "protein": 5.1,
+                "carbs": 47.2,
+                "fat": 19.8,
+                "fiber": 2.6,
+                "sugar": 34,
+                "sodium": 322,
+                "vitamins": {
+                    "A": 100,
+                    "B2": 0.2
+                },
+                "minerals": {
+                    "Iron": 2.4,
+                    "Calcium": 39
+                }
+            }
+        },
+        "ice cream": {
+            "name": "ice cream",
+            "category": "dessert",
+            "nutrition": {
+                "calories": 207,
+                "protein": 3.5,
+                "carbs": 23.6,
+                "fat": 11,
+                "fiber": 0.5,
+                "sugar": 21.2,
+                "sodium": 80,
+                "vitamins": {
+                    "A": 150,
+                    "D": 0.4
+                },
+                "minerals": {
+                    "Calcium": 128,
+                    "Phosphorus": 105
+                }
+            }
+        },
+        "steak": {
+            "name": "steak",
+            "category": "meat",
+            "nutrition": {
+                "calories": 271,
+                "protein": 26,
+                "carbs": 0,
+                "fat": 18,
+                "fiber": 0,
+                "sugar": 0,
+                "sodium": 64,
+                "vitamins": {
+                    "B3": 6.2,
+                    "B12": 2.8,
+                    "B6": 0.6
+                },
+                "minerals": {
+                    "Iron": 2.7,
+                    "Zinc": 5.4,
+                    "Phosphorus": 210
+                }
+            }
+        },
+        "tacos": {
+            "name": "tacos",
+            "category": "mexican",
+            "nutrition": {
+                "calories": 226,
+                "protein": 9.8,
+                "carbs": 22,
+                "fat": 12,
+                "fiber": 2.8,
+                "sugar": 1.3,
+                "sodium": 397,
+                "vitamins": {
+                    "A": 115,
+                    "C": 3
+                },
+                "minerals": {
+                    "Calcium": 112,
+                    "Iron": 1.6
+                }
+            }
+        }
+    },
+    "categories": [
+        "fruits",
+        "meat",
+        "fast food",
+        "seafood",
+        "dessert",
+        "mexican"
+    ],
+    "last_updated": "2025-04-21T11:45:25.260461"
+}
